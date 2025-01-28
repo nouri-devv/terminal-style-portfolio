@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.terminal-cursor {
+  display: inline-block;
+  width: 1ch; /* Width of the cursor (1 character) */
+  animation: blink 1s steps(2, start) infinite;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1; /* Visible */
+  }
+  50% {
+    opacity: 0; /* Invisible */
+  }
+}

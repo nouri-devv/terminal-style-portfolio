@@ -1,0 +1,160 @@
+{
+  "name": "Jane Smith",
+  "statement": "Full-Stack Developer",
+  "about": "Dedicated Full Stack Developer with a passion for creating efficient web solutions and tackling complex technical challenges. Experienced in modern development practices with a focus on scalable architecture.",
+  "tech": {
+    "languages": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "TypeScript",
+      "Ruby",
+      "Go",
+      "SQL"
+    ],
+    "frameworks": ["React", "Vue.js", "Django", "Express.js", "Angular"],
+    "tools": ["Docker", "Kubernetes", "Git", "Jenkins", "VS Code"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"]
+  },
+  "experience": [
+    {
+      "company": "TechStart Solutions",
+      "position": "Software Engineer Intern",
+      "location": "San Francisco, USA",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "description": [
+        "Contributed to development of cloud-native applications",
+        "Implemented responsive UI components using modern frameworks",
+        "Collaborated with team on API development and integration",
+        "Participated in agile development processes"
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company": "Digital Innovations Corp",
+      "position": "Junior Developer",
+      "location": "Boston, USA",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "description": [
+        "Developed and maintained RESTful APIs",
+        "Implemented authentication system using JWT",
+        "Created automated testing suite for backend services",
+        "Optimized database queries improving response time by 30%",
+        "Built responsive front-end components",
+        "Participated in code reviews and documentation"
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "React",
+        "Docker",
+        "REST API"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tech University",
+      "degree": "Bachelor of Computer Science",
+      "fieldOfStudy": "",
+      "startDate": "2022-09-01",
+      "endDate": "2025-05-01",
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Web Development",
+        "Database Systems",
+        "Computer Networks",
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Cloud Computing",
+        "Mobile Development"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Weather Dashboard",
+      "description": "Real-time weather monitoring system with interactive visualizations",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "OpenWeather API",
+        "Chart.js"
+      ],
+      "url": "https://github.com/username/weather-dashboard"
+    },
+    {
+      "title": "Task Management API",
+      "description": "RESTful API for task management with authentication and real-time updates",
+      "technologies": ["Node.js", "Express", "MongoDB", "Socket.IO", "JWT"],
+      "url": "https://github.com/username/task-management-api"
+    },
+    {
+      "title": "E-commerce Platform",
+      "description": "Full-stack e-commerce solution with payment integration",
+      "technologies": ["React", "Node.js", "Stripe API", "MongoDB"],
+      "url": "https://github.com/username/ecommerce-platform"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Cloud Architecture Certification",
+      "issuer": "Cloud Academy",
+      "date": "2024-05-01",
+      "url": "https://github.com/username/cloud-cert"
+    },
+    {
+      "name": "Full Stack Development Certificate",
+      "issuer": "CodeAcademy",
+      "date": "2024-03-01",
+      "description": "Comprehensive full-stack web development program covering modern technologies"
+    },
+    {
+      "name": "Innovation Award",
+      "issuer": "TechHacks 2024",
+      "date": "2024-02-01",
+      "url": "https://github.com/username/techhacks-award"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "TypeScript",
+      "Ruby",
+      "Go",
+      "SQL"
+    ],
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "React",
+      "Vue.js",
+      "Node.js",
+      "Django",
+      "PostgreSQL",
+      "MongoDB",
+      "Git"
+    ],
+    "softSkills": [
+      "Problem-Solving",
+      "Communication",
+      "Leadership",
+      "Agile Methodology"
+    ]
+  }
+}
