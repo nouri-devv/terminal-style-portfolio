@@ -2,6 +2,8 @@
 
 A customizable terminal-themed portfolio template built with React and TypeScript. This template allows you to create a unique portfolio that mimics a terminal interface while maintaining easy customization through a single JSON file.
 
+[Live site demo](https://nouri-devv-terminal-style-portfolio.netlify.app/)
+
 ## 📋 Features
 
 - Terminal-style interface
