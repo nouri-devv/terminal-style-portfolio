@@ -10,7 +10,7 @@ const PageHero = () => {
       </h1>
       <div className="border-l-1 border-green-400 pl-4 ml-2">
         <pre className="text-green-500 text-[5px] md:text-[10px] lg:text-xs leading-[0.8] mb-4">
-          {/* Go to https://fsymbols.com/generators/carty/ to generate the art and paste below */}
+          {/*  Go to https://fsymbols.com/generators/carty/ to generate the art and paste below */}
           {`
 ███╗░░██╗░█████╗░███╗░░░███╗███████╗  ██╗░░██╗███████╗██████╗░███████╗
 ████╗░██║██╔══██╗████╗░████║██╔════╝  ██║░░██║██╔════╝██╔══██╗██╔════╝
