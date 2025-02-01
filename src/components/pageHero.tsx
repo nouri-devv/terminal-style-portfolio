@@ -9,7 +9,7 @@ const PageHero = () => {
         <span className="ml-1 h-6 w-[0.35rem] bg-green-500 animate-[blink_1s_step-end_infinite]" />
       </h1>
       <div className="border-l-1 border-green-400 pl-4 ml-2">
-        <pre className="text-green-500 text-xs mb-4">
+        <pre className="text-green-500 text-[5px] md:text-[10px] lg:text-xs leading-[0.8] mb-4">
           {/* Go to https://fsymbols.com/generators/carty/ to generate the art and paste below */}
           {`
 ███╗░░██╗░█████╗░███╗░░░███╗███████╗  ██╗░░██╗███████╗██████╗░███████╗
